@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/jbona87/jbona87/output/dist/github-contribution-grid-snake-dark.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/jbona87/jbona87/output/dist/github-contribution-grid-snake-dark.svg?v=1)
